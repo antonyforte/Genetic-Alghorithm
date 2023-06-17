@@ -1,0 +1,8 @@
+The coordenates of the cities are in instancia.txt
+Modify the file knowing that in the file has:
+"total number of cities"
+"coordenate-x-city1" "coordenate-y-city2"
+"coordenate-x-city2" "coordenate-y-city2"
+"coordenate-x-city3" "coordenate-y-city3"
+...
+
